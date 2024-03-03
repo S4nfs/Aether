@@ -8,11 +8,16 @@
 
 <h2 align="center">GodGPT AI: Get instant answers, discover creative inspiration, and gain new knowledge. </h2>
 <p align="center">No Signin, No Signups, No BS, Just open to all.</p></br>
+<h2 align="center"> <a href="https://godgpt.chatnaut.com/"> LIVE
+  </a></h2>
 </br>
 
+
+https://github.com/S4nfs/GodGPT/assets/75138345/2658976d-aff9-48c8-807f-b1d320df551f
+
+</br>
 <p align="center">
   <img alt="GodGPT chat" src="./helloToGodGPT.png"></br></br>
-  [<img src="./godGPTdemo.mp4" width="50%">]
 </p>
 
 </br></br>
