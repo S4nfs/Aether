@@ -45,7 +45,7 @@ https://github.com/S4nfs/GodGPT/assets/75138345/2658976d-aff9-48c8-807f-b1d320df
 
 ## 🐛 Known Bugs
 - Text streaming is avoided as its keep failing to identify the code response in text, will get fixed in the next version.
-- No formatting of chat responses.
+- ~~No formatting of chat responses~~.
 - Some models (Falcon-7b) are giving unknown names and awkward responses 👀.
 
 ## 👨‍💻 License
