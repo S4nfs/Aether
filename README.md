@@ -15,6 +15,7 @@
 
 https://github.com/S4nfs/Aether/assets/75138345/2658976d-aff9-48c8-807f-b1d320df551f
 
+![Aether Image Generation](https://raw.githubusercontent.com/S4nfs/Aether/main/Aether-Image_generation.png)
 </br>
 <!-- <p align="center">
   <img alt="Aether AI chat" src="https://github.com/S4nfs/Aether/blob/main/aetherGPTlogo.jpg"></br></br>
